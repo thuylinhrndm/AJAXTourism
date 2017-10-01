@@ -1,0 +1,95 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/tourism.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE tourism SYSTEM "tourism.dtd">
+
+    <tourism>
+    ...
+    </tourism>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT tourism (country)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT country (culture|geography|statistics|map|overview|name)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT name (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT overview (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT map (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT statistics (capitalCity|population)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT population (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT capitalCity (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT geography (climate|location)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT location (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT climate (south|central|north)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT north (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT central (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT south (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT culture (festivals|introduction)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT introduction (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT festivals (festival)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT festival (events|time|image|meaning|name)*>
+<!ATTLIST festival
+    id CDATA #IMPLIED
+  >
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT meaning (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT image (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT time (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT events (event)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT event (#PCDATA)>
+<!ATTLIST event
+    id CDATA #IMPLIED
+  >

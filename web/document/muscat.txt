@@ -1,0 +1,10 @@
+<b>Historical Background of Arabian Horses in Oman</b><br/><br/>
+
+Muscat Festival started in 1998 as a podium of cultural and artistic extravaganza. It served the dynamic interests of people from all walks of life and provided them opportunities to communicate through cultural and recreational events. The festival also helps promote social interaction and harmony.
+
+Muscat festival is a concoction of cookery, shopping, entertainment and many aspects of the Omani society. It hosts several well thought-out entertainment and informational programs and events for the visitors. Exceptional efforts have been taken to ensure that every guest is taken good care of throughout their time at the festival.
+
+Now, in its 16th successive year, the mega event will take place from 30 January to 28th February. The festival is packed with concerts, musical shows, laser shows, dazzling fireworks, sports, outdoor and fashion events. Some important events to look out for are the Tour of Oman which is one of the biggest cycling events in the Middle East. For food lovers, the Oman Food Festival is a treat, which brings out Oman's culinary history and array of various food delicacies in its truest form.  For shopaholics, this event provides the platform to grab the best bargains and win some exciting shopping deals.
+
+The Muscat Festival is a major cultural event on the Arab and international calendar thanks to the large number of the events hosted and attended by people from around the world.
+<br><a href="#Muscat" onclick="document.getElementById('Muscat').innerHTML=' '">Hide</a>

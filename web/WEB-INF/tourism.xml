@@ -1,0 +1,154 @@
+<?xml version="1.0"?>
+
+<tourism xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:noNamespaceSchemaLocation="tourism.xsd">
+    <country>
+        <name>The Socialist Republic of Vietnam</name>
+        <overview>Viet Nam's diverse natural environment, geography, history, and culture have created a great potential for the tourism industry. Viet Nam consists of long coastlines, forests, and mountainous regions with numerous magnificent landscapes.</overview>
+        <map>img/map_of_vietnam.jpg</map>
+        <statistics>
+            <population>89,000,000</population>
+            <capitalCity>Ha Noi</capitalCity>
+        </statistics>
+        <geography>
+            <location>Lying on the eastern part of the Indochinese peninsula, Vietnam is a strip of land shaped like the letter “S”. China borders it to the north, Laos and Cambodia to the west, the East Sea to the east and the Pacific Ocean to the east and south.</location>
+            <climate> 
+                <north>The North has four distinct seasons: Winter,Summer, Spring and Autumn</north>
+                <central>In the Central separates two different weather patterns: hotter in summer and cooler in winter, summers are hot and dry, strong wind and rain</central>
+                <south>The South has three somewhat distinct seasons: hot and dry, rainy, cool and dry</south>
+            </climate>
+        </geography>
+        <culture>
+            <introduction>Vietnamese culture is interesting and fascinating. We hope with this website, you can find the most comprehensive information about culture of Vietnam and its traditions.</introduction>
+            <festivals>
+                <festival id="1">
+                    <name>Lunar New Year (Tet)</name>
+                    <meaning>People travel home to be with their families for eating, drinking and socialising</meaning>
+                    <image>newyear.jpg</image>
+                    <time>Between late January or early February (depend on Lunar Calendar )</time>
+                    <events>
+                        <event id="1">Giao Thua (New Year's eve)</event>
+                        <event id="2">Food specialties for TET</event>
+                        <event id="3">The "five-fruit tray </event>
+                    </events>
+                </festival>
+                <festival id="2">
+                    <name>Mid-Autumn Festival</name>
+                    <meaning>Vietnam and some other Asian countries who follow the rite of worshipping the Moon Genie.This is the time when the moon is full, the farm work is at rest, and the weather is cool and fresh.</meaning>
+                    <image>mid_autumn.jpg</image>
+                    <time>The 15th day of the 8th lunar month</time>
+                    <events>
+                        <event id="1">Cook outstanding food to offer ancestors </event>
+                        <event id="2">Lion dances </event>
+                        <event id="3">The mid-autumn festive party</event>
+                    </events>
+                </festival>
+            </festivals>
+        </culture>
+    </country>
+    <country>
+        <name>The Sultanate of Oman</name>
+        <overview> 
+            Oman is heavily dependent on its oil income, amounting to 90% of its exports.</overview>
+        <map>img/oman-map.jpg</map>
+        <statistics>
+            <population>2,982,509</population>
+            <capitalCity>Muscat</capitalCity>
+        </statistics>
+        <geography>
+            <location>Oman borders the Arabian/Persian Gulf, the Gulf of Oman, the Arabian Sea and lies between the United Arab Emirates, Saudi Arabia and Yemen. 
+                Its location next to the Gulf of Hormuz is critical to its strategic importance.</location>
+            <climate> 
+                <north>It is hot and humid during summer in the coastal areas and hot and dry in the interior regions,
+                    rainfall occurs during the winter, from November to April</north>
+                <central>hot and dry in summer, rainy and cool in winter</central>
+                <south>there is constant drizzle through out the day in summer and cool in winter</south>
+            </climate>
+        </geography>
+        <culture>
+            <introduction>Once upon a time there was … Sinbad the Sailor, the Frankincense Trail and the Three Kings of Orient. Oman’s exciting and eventful past has long been general knowledge. However, the proud people and the breathtaking landscapes behind these legends are still a well-kept secret, which is well worth discovering.
+                A visit to Oman will give you a first glimpse of this country, its people, its traditions and its countryside.</introduction>
+            <festivals>
+                <festival id="1">
+                    <name>Muscat Festival</name>
+                    <meaning>his is one of the most important festivals, combining the efforts of all active official, private, and even the popular sectors in the country. These festivals reflect the magical beauty of the Sultanate, the depth of its history and heritage, the urban development witnessed by the country while preserving
+                        its cultural heritage, customs and the authentic Arab traditions of the Omani people.</meaning>
+                    <image>Horse Race Festival.jpg</image>
+                    <time>The festival is usually held in Muscat in January and February of each year </time>
+                    <events>
+                        <event id="1">Annual Royal Horse Race Festival</event>
+                        <event id="2">Entertainment City (Electric Games)</event>
+                        <event id="3">Festival of Arts </event>
+                    </events>
+                </festival>
+                <festival id="2">
+                    <name>Eid al Adha</name>
+                    <meaning>celebrates the willingness of Abraham  to sacrifice his son Ismail at the command of God (although having proved his obedience, he was permitted to sacrifice a ram instead).
+                        The festival also marks the end of the traditional pilgrimage season to Maka. Large numbers of animals are slaughtered during the festival</meaning>
+                    <image>Fireworks Festival.jpg</image>
+                    <time>15 October - 17 October</time>
+                    <events>
+                        <event id="1">International Trade Fair</event>
+                        <event id="2">Fireworks</event>
+                        <event id="3">International Plays and Concerts </event>
+                    </events>
+                </festival>
+            </festivals>
+        </culture>
+    </country>
+    <country>
+        <name>The Republic of Ireland</name>
+        <overview> 
+            Ireland is a small, modern, trade-dependent economy with growth averaging a robust 9% in 1995-2001. 
+            Agriculture, once the most important sector, is now dwarfed by industry, which accounts for 38% of GDP,
+            about 80% of exports, and employs 28% of the labor force. 
+        </overview>
+        <map>img/ireland_map.gif</map>
+        <statistics>
+            <population>5½ million</population>
+            <capitalCity>Dublin </capitalCity>
+        </statistics>
+        <geography>
+            <location>reland is an island in the North Atlantic Ocean, west of the European mainland, divided into two countries:
+                Ireland, occupying five-sixths of the island of Ireland, west of Great Britain, and Northern Ireland, part of the
+                United Kingdom. This island is a strategic location on major air and sea routes between North America and northern Europe.
+                Over 40% of the population resides within 100 km of Dublin. The coastline is about 1450 km.
+            </location>
+            <climate> 
+                <north>mild winters and cool summers. It is consistently humid and overcast about half the time</north>
+                <central>there are no really cold winters and in summer it can be very nice</central>
+                <south>here can be lots of clouds and sometimes rain, the weather can change fast in Ireland</south>
+            </climate>
+        </geography>
+        <culture>
+            <introduction>The Irish flag has three vertical stripes in green, white and orange.  The green represents the older Gaelic people,
+                the orange represents the Protestants (under William of Orange) and the white represents the peace between the two groups.
+            </introduction>
+            <festivals>
+                <festival id="1">
+                    <name>Halloween</name>
+                    <meaning> The word Halloween is a shortening of All Hallows' Evening also known as Hallowe'en or All Hallows' Eve.
+                    </meaning>
+                    <image>Halloween.jpg</image>
+                    <time> 31 October </time>
+                    <events>
+                        <event id="1">Dressing up as ghosts and scary things so the dead souls </event>
+                        <event id="2">Trick-or-treatin</event>
+                        <event id="3">making pumpkin patch</event>
+                    </events>
+                </festival>
+                <festival id="2">
+                    <name>Saint Patrick's Day</name>
+                    <meaning>Saint Patrick's Day was made an official Christian feast day in the early seventeenth century and is observed by the Catholic Church</meaning>
+                    <image>StPatricksDay.jpg</image>
+                    <time>17 March</time>
+                    <events>
+                        <event id="1">Music and Street Performance</event>
+                        <event id="2">Irish Craft Beer Village </event>
+                        <event id="3">Greening the City</event>
+                    </events>
+                </festival>
+            </festivals>
+        </culture>
+    </country>
+</tourism>

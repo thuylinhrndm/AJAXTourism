@@ -1,0 +1,13 @@
+<b>History of Halloween</b><br/><br/>
+Halloween is a holiday celebrated on the night of October 31.  The word Halloween is a shortening of All Hallows' Evening also known as Hallowe'en or All Hallows' Eve.
+
+Traditional activities include trick-or-treating, bonfires, costume parties, visiting "haunted houses" and carving jack-o-lanterns. Irish and Scottish immigrants carried versions of the tradition to North America in the nineteenth century. Other western countries embraced the holiday in the late twentieth century including Ireland, the United States, Canada, Puerto Rico and the United Kingdom as well as of Australia and New Zealand.
+ 
+Halloween has its origins in the ancient Celtic festival known as Samhain (pronounced "sah-win"). 
+The festival of Samhain is a celebration of the end of the harvest season in Gaelic culture. Samhain was a time used by the ancient pagans to take stock of supplies and prepare for winter. The ancient Gaels believed that on October 31, the boundaries between the worlds of the living and the dead overlapped and the deceased would come back to life and cause havoc such as sickness or damaged crops.
+
+The festival would frequently involve bonfires. It is believed that the fires attracted insects to the area which attracted bats to the area. These are additional attributes of the history of Halloween.
+
+Masks and costumes were worn in an attempt to mimic the evil spirits or appease them.
+<br><a href="#Halloween" onclick="document.getElementById('Halloween').innerHTML=' '">Hide</a>
+

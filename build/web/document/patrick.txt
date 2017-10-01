@@ -1,0 +1,14 @@
+<b>History of St. Patrick's Day</b><br/><br/>
+
+Since the earliest centuries of Christianity, it has been a custom to celebrate the anniversary of saints' deaths. This allows believers to honor the saint's accomplishments and celebrate their entry into heaven. A "feast day" is designated for every saint, even when the exact date of death of a saint is not known.
+
+St. Patrick was a fifth-century English (or perhaps Scottish) missionary to Ireland. Scholars agree he is a historical figure and that he converted many of the pagans on the island to Christianity, but dismiss most of the legend that has developed about him over the centuries.
+
+The feast day of St. Patrick has been observed in Ireland on March 17 for hundreds of years. The date falls during the fasting season of Lent, but on St. Patrick's Day the prohibitions against eating meat were lifted, and the Irish would celebrate their patron saint with dancing, drinking, and feasting on the traditional meal of Irish bacon and cabbage.
+
+One of the most widespread of today's St. Patrick's Day celebrations, the St. Patrick's Day parade, began not in Ireland but in America. It consisted of Irish soldiers serving in the English army and took place in New York City on March 17, 1762. The parade helped the soldiers connect with their Irish roots and their fellow Irishmen.
+
+Irish patriotism flourished in America over the next several decades. Several "Irish Aid" societies were founded, each of which would hold annual parades featuring Irish music. In 1848, several Irish Aid societies in New York decided to combine their parades into a single St. Patrick's Day Parade. This parade is the oldest and the largest civilian parade.
+
+Today, Irish expatriates, those of Irish descent, and ever-growing crowds of people with no Irish connections whatsoever celebrate St. Patrick's Day.
+<br><a href="#PatrickHistory" onclick="document.getElementById('PatrickHistory').innerHTML=' '">Hide</a>

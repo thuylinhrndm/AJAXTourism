@@ -1,0 +1,59 @@
+/* 
+    Document   : tourism
+    Created on : Nov 18, 2013, 12:27:57 AM
+    Author     : hanaa
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root { 
+    display: block;
+}
+
+html {
+    overflow-x: hidden;}
+
+body,html {
+    margin: 0; padding: 0;}
+
+
+
+
+body {
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 16px;
+
+}
+#followUs{
+    float: right;
+    padding-top: 1em;
+    padding-right: 1em;
+}
+#hader{
+    margin-top: 0px;
+    padding-top: 15px;
+    height: 115px;
+    border-top: 5px solid #00788b;
+    text-align: center;
+
+    color: #fff;
+    background: #00a0af;
+}
+
+#footer	{
+    margin-top: 50px;
+    padding-top: 15px;
+    height: 60px;
+    border-top: 5px solid #00788b;
+    text-align: center;
+
+    color: #fff;
+    background: #00a0af;
+}
+
+#copyright {
+    margin-top: 10px;
+    font-size: .9em;
+    color: #999;
+    background: #00a0af;
+}

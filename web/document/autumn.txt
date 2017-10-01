@@ -1,0 +1,17 @@
+<b>The History of The Mid-Autumn Festival</b><br/><br/>
+(Vietnam-Culture) Every year, on the 15th day of the 8th month in lunar calendar, the children throughout the country in Vietnam are given permission by their parents to march in a procession and carry their lanterns, to eat the Mid-Autumn Festival cakes and to perform the dragon (unicorn) dance, oh, how great and uproarious they are! This Festival is called "Mid-Autumn Festival" - or also called Children's Festival. Do you know why we have this special festival?
+
+Actually, this tradition of celebrating the Mid-autumn Festival began since the Duong Minh Hoang era in China, at the beginning of the 8th century (713-755). 
+
+According to ancient manuscripts, on the eve of the 15th day in the 8th month, while the Emperor Duong and his mandarins gazed at the moon, the Emperor wished that if only he could visit the Palace on the Moon. A magician named Dieu Phap Thien (also known as La Cong Vien) offered to take the Emperor to the moon by performing a number of magic tricks.
+
+Upon arriving at the Moon Palace, the Emperor Minh Hoang was welcomed by a Fairy God who prepared a banquet and entertained the Emperor Duong. There were hundreds of beautiful fairies wearing the thin silk gaudy clothes, each of them held a long white silk piece in hand, threw it into the air, danced, and sang in the court, this dance and song is called the Nghe Thuong Vu Y (Nghe Thuong Cloth Dance).
+
+The Emperor enjoyed this dance very much. Since the Emperor had an aptitude for music, he showed a keen interest and admiration for the dance, while at the same time trying to memorize the fairy song and dance by heart. The Emperor wanted to bring this song and dance back to the Imperial Palace for entertainment.
+
+At the end of that year, a Governor ruling over the Tay Luong Country brought with him a group of female dancers who performed the Ba-la-mon dance.
+
+The Emperor discovered that this Ba-la-mon dancing style shared a lot of similarities to Nghe Thuong Vu Y dance and song. He combined the two songs and dances styles into one, and called it the Nghe Thuong Dance and Cloth Style.
+
+Later, the mandarins adopted the Nghe Thuong Dance and Cloth style from their Emperor, took this song and dance style and gradually introduced it to everyone in their far ruling countries. The tradition of gazing at the moon, and watching the dance and song later became a traditional event on eve of the Mid-Autumn celebration.
+<br><a href="#AutumnFestival" onclick="document.getElementById('AutumnFestival').innerHTML=' '">Hide</a>

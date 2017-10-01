@@ -1,0 +1,80 @@
+.<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="tourism">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="country" maxOccurs="unbounded" minOccurs="1">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element type="xs:string" name="name"/>
+              <xs:element type="xs:string" name="overview"/>
+              <xs:element type="xs:string" name="map"/>
+              <xs:element name="statistics">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="population"/>
+                    <xs:element type="xs:string" name="capitalCity"/>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="geography">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="location"/>
+                    <xs:element name="climate">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element type="xs:string" name="north"/>
+                          <xs:element type="xs:string" name="central"/>
+                          <xs:element type="xs:string" name="south"/>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="culture">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="introduction"/>
+                    <xs:element name="festivals">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="festival" maxOccurs="unbounded" minOccurs="1">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element type="xs:string" name="name"/>
+                                <xs:element type="xs:string" name="meaning"/>
+                                <xs:element type="xs:string" name="image"/>
+                                <xs:element type="xs:string" name="time"/>
+                                <xs:element name="events">
+                                  <xs:complexType>
+                                    <xs:sequence>
+                                      <xs:element name="event" maxOccurs="unbounded" minOccurs="1">
+                                        <xs:complexType>
+                                          <xs:simpleContent>
+                                            <xs:extension base="xs:string">
+                                              <xs:attribute type="xs:integer" name="id" use="optional"/>
+                                            </xs:extension>
+                                          </xs:simpleContent>
+                                        </xs:complexType>
+                                      </xs:element>
+                                    </xs:sequence>
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                              <xs:attribute type="xs:integer" name="id" use="optional"/>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
